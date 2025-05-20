@@ -10,17 +10,6 @@
 	font-family: monospace;
 	margin-bottom: 20px;
 }
-
-.controls {
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-}
-
-.controls .horizontal {
-	display: flex;
-	justify-content: center;
-}
 .row {
 	display: flex;
 }
@@ -42,10 +31,17 @@
 	font-size: large;
 }
 .controls {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
 	margin: 20px;
 }
 .controls button {
 	font-size: 26px;
 	margin: 5px;
 	padding: 10px;
+}
+.controls .horizontal {
+	display: flex;
+	justify-content: center;
 }
