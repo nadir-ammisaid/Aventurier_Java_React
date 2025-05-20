@@ -1,0 +1,51 @@
+.app-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+}
+
+.map {
+	font-family: monospace;
+	margin-bottom: 20px;
+}
+
+.controls {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.controls .horizontal {
+	display: flex;
+	justify-content: center;
+}
+.row {
+	display: flex;
+}
+.cell {
+	width: 26px;
+	height: 26px;
+	text-align: center;
+	line-height: 26px;
+	border: 1px solid #ccc;
+}
+.wall {
+	background-color: rgb(24, 143, 17);
+}
+.path {
+	background-color: rgb(231, 235, 231);
+}
+.hero {
+	background-color: rgb(250, 250, 250);
+	font-size: large;
+}
+.controls {
+	margin: 20px;
+}
+.controls button {
+	font-size: 26px;
+	margin: 5px;
+	padding: 10px;
+}
