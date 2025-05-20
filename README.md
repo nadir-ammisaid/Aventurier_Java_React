@@ -25,7 +25,7 @@ aventurier/
 
 ## Lancer le projet
 
-- Backend (Java Spring Boot)
+### - Backend (Java Spring Boot)
 
 ```bash
 cd backend
@@ -34,13 +34,13 @@ cd backend
 
 Fichiers requis dans src/main/resources :
 
-- map.txt : la carte à afficher (avec # pour les murs, espace pour les chemins)
+- map.txt : la carte à afficher (avec # pour les murs et l'intérieur de la fôret, espace pour les chemins disponibles)
 
 - moves.txt : coordonnées initiales au format x,y
 
 
 
-- Frontend (React)
+### - Frontend (React)
 
 ```bash
 cd frontend
@@ -64,17 +64,17 @@ Exemple de body pour /api/new-position :
 ```json
 {
   "direction": "N",
-  "lastPosition": { "x": 2, "y": 3 }
+  "lastPosition": { "x": 6, "y": 7 }
 }
 ```
 
 
 ## Fonctionnement
 
-1. Le frontend charge la carte et la position initiale au chargement.
+1. Le frontend charge la carte et la position initiale au démarrage.
 
 2. À chaque clic sur un bouton (⬆️⬇️⬅️➡️), une requête est envoyée au backend.
 
-3. Le backend vérifie si le mouvement est possible, puis retourne la nouvelle position.
+3. Le backend vérifie si le déplacement est autorisé, puis retourne la nouvelle position.
 
 4. Le frontend met à jour la grille avec la nouvelle position.
