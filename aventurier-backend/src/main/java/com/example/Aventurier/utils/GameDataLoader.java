@@ -24,11 +24,17 @@ public class GameDataLoader {
                 .collect(Collectors.toList());
     }
 
+
+
+
+
     public static Position loadInitialPosition() throws IOException {
         InputStream inputStream = GameDataLoader.class.getClassLoader().getResourceAsStream("initial_position.txt");
 
         BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream, StandardCharsets.UTF_8));
+
         String firstLine = reader.readLine();
+
         if (firstLine == null || !firstLine.contains(",")) {
             throw new IllegalArgumentException("Format invalide pour initial_position.txt");
         }

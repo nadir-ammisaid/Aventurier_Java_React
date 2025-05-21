@@ -49,7 +49,7 @@ public class GameService {
         if (x < 0 || x >= map.get(y).length()) return false;
 
         // Check free cell
-        if (map.get(y).charAt(x) != ' ') return false;
+        if (map.get(y).charAt(x) != ' ') return false;  //or ='#'
 
         return true;
     }
