@@ -83,7 +83,7 @@ Exemple de body pour /api/new-position :
 
 ## Auteur
 
-Projet réalisé par [**Nadir AMMI SAID**](https://www.linkedin.com/in/nadir-ammisaid/) dans le cadre d’un **test technique** demandé par [**Cleva**](https://cleva-solutions.com/fr/), pour une alternance en développement full-stack, dans le cadre de mon **programme Master** (33 mois) **à Epitech**.
+Projet réalisé par [**Nadir AMMI SAID**](https://www.linkedin.com/in/nadir-ammisaid/) dans le cadre d’un **test technique** demandé par [**Cleva**](https://cleva-solutions.com/fr/), pour une alternance en développement full-stack, dans le cadre de mon **programme Master** (33 mois) **à [Epitech](https://www.epitech.eu/formation-alternance/pre-msc-post-bac2/).**
 
 **💬 Vos retours sont les bienvenus !**  
 📩 Vous pouvez me contacter sur LinkedIn : [https://www.linkedin.com/in/nadir-ammisaid/](https://www.linkedin.com/in/nadir-ammisaid/)
@@ -150,7 +150,7 @@ Example body for /api/new-position:
 4. The frontend updates the grid with the new position.
 
 ## Author
-Project created by [**Nadir AMMI SAID**](https://www.linkedin.com/in/nadir-ammisaid/) as part of a **technical test** requested by [**Cleva**](https://cleva-solutions.com/fr/), for a full-stack development internship, within the framework of my **Master's program** (33 months) **at Epitech**.
+Project created by [**Nadir AMMI SAID**](https://www.linkedin.com/in/nadir-ammisaid/) as part of a **technical test** requested by [**Cleva**](https://cleva-solutions.com/fr/), for a full-stack development internship, within the framework of my **Master's program** (33 months) **at [Epitech](https://www.epitech.eu/formation-alternance/pre-msc-post-bac2/).**
 
 **💬 Your feedback is welcome!**  
 📩 You can contact me on LinkedIn: [https://www.linkedin.com/in/nadir-ammisaid/](https://www.linkedin.com/in/nadir-ammisaid/)
