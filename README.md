@@ -99,9 +99,7 @@ Projet réalisé par [**Nadir AMMI SAID**](https://www.linkedin.com/in/nadir-amm
 📩 Vous pouvez me contacter sur LinkedIn : [https://www.linkedin.com/in/nadir-ammisaid/](https://www.linkedin.com/in/nadir-ammisaid/)
 
 
-<br/>
 <hr id="en" style="margin-top: 4px; margin-bottom: 12px; border: none; border-top: 1px solid #ccc;" />
-<br/>
 
 <img src="https://flagcdn.com/w40/gb.png" width="20" alt="English"> English
 
