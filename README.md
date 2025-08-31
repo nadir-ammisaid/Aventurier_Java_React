@@ -9,7 +9,7 @@
 
 <img id="fr" src="https://flagcdn.com/w40/fr.png" width="20" alt="Français"> Français
 
-<h1>Aventurier</h1>
+## Aventurier
 
 Une mini application Java + React pour déplacer un personnage sur une carte définie dans un fichier texte.
 
@@ -105,7 +105,7 @@ Projet réalisé par [**Nadir AMMI SAID**](https://www.linkedin.com/in/nadir-amm
 
 <img src="https://flagcdn.com/w40/gb.png" width="20" alt="English"> English
 
-<h1 >Adventurer</h1>
+## Adventurer
 
 A mini Java + React application to move a character on a map defined in a text file.
 
