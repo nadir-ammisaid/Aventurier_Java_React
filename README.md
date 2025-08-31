@@ -1,11 +1,9 @@
-<a href="#fr">
+## <a href="#fr">
   <img src="https://flagcdn.com/w40/fr.png" width="20" alt="Français"> Français
 </a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="#en">
   <img src="https://flagcdn.com/w40/gb.png" width="20" alt="English"> English
 </a>
-
-## &nbsp;&nbsp;
 
 
 
