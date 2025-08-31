@@ -1,6 +1,15 @@
-<img src="https://flagcdn.com/w40/fr.png" width="20" alt="Français"> Français
+<a href="#fr">
+  <img src="https://flagcdn.com/w40/fr.png" width="20" alt="Français"> Français
+</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="#en">
+  <img src="https://flagcdn.com/w40/gb.png" width="20" alt="English"> English
+</a>
 
-# Aventurier
+<hr style="margin-top: 4px; margin-bottom: 12px; border: none; border-top: 1px solid #ccc;" />
+
+<img id="fr" src="https://flagcdn.com/w40/fr.png" width="20" alt="Français"> Français
+
+<h1>Aventurier</h1>
 
 Une mini application Java + React pour déplacer un personnage sur une carte définie dans un fichier texte.
 
@@ -91,11 +100,13 @@ Projet réalisé par [**Nadir AMMI SAID**](https://www.linkedin.com/in/nadir-amm
 
 
 <br/>
+<hr id="en" style="margin-top: 4px; margin-bottom: 12px; border: none; border-top: 1px solid #ccc;" />
 <br/>
 
 <img src="https://flagcdn.com/w40/gb.png" width="20" alt="English"> English
 
-# Adventurer
+<h1>Adventurer</h1>
+
 A mini Java + React application to move a character on a map defined in a text file.
 
 ## Objective 
