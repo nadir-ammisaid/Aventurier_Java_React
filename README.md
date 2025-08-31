@@ -9,7 +9,9 @@
 
 <img id="fr" src="https://flagcdn.com/w40/fr.png" width="20" alt="Français"> Français
 
-## Aventurier
+<h1>Aventurier</h1>
+
+## Aventurier 
 
 Une mini application Java + React pour déplacer un personnage sur une carte définie dans un fichier texte.
 
