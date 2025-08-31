@@ -152,7 +152,7 @@ Example body for /api/new-position:
 4. The frontend updates the grid with the new position.
 
 ## Author
-Project created by [**Nadir AMMI SAID**](https://www.linkedin.com/in/nadir-ammisaid/) as part of a **technical test** requested by [**Cleva**](https://cleva-solutions.com/fr/), for a full-stack development internship, within the framework of my **Master's program** (33 months) **at [Epitech](https://www.epitech.eu/formation-alternance/pre-msc-post-bac2/).**
+Project created by [**Nadir AMMI SAID**](https://www.linkedin.com/in/nadir-ammisaid/) as part of a **technical test** requested by [**Cleva**](https://cleva-solutions.com/fr/), for a full-stack development internship, within the scope of my 33-month **Master's program at [Epitech](https://www.epitech.eu/formation-alternance/pre-msc-post-bac2/).**
 
 **💬 Your feedback is welcome!**  
 📩 You can contact me on LinkedIn: [https://www.linkedin.com/in/nadir-ammisaid/](https://www.linkedin.com/in/nadir-ammisaid/)
