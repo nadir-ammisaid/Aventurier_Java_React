@@ -100,6 +100,7 @@ Projet réalisé par [**Nadir AMMI SAID**](https://www.linkedin.com/in/nadir-amm
 
 
 <br/>
+<hr style="margin-top: 4px; margin-bottom: 12px; border: none; border-top: 1px solid #ccc;" />
 <br/>
 
 <img id="en" src="https://flagcdn.com/w40/gb.png" width="20" alt="English"> English
