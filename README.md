@@ -11,8 +11,6 @@
 
 <h1>Aventurier</h1>
 
-## Aventurier 
-
 Une mini application Java + React pour déplacer un personnage sur une carte définie dans un fichier texte.
 
 
@@ -107,7 +105,7 @@ Projet réalisé par [**Nadir AMMI SAID**](https://www.linkedin.com/in/nadir-amm
 
 <img src="https://flagcdn.com/w40/gb.png" width="20" alt="English"> English
 
-## Adventurer
+<h1>Adventurer</h1>
 
 A mini Java + React application to move a character on a map defined in a text file.
 
