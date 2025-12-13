@@ -1,4 +1,4 @@
-package main.java.com.example.Aventurier.config;
+package com.example.Aventurier.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
