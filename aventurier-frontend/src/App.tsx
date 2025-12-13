@@ -32,17 +32,16 @@ function App() {
 
   return (
     <div className="app-container">
-      {/* 🔹 Titre */}
       <header className="game-header">
         <h1>🧭 Aventurier</h1>
         <p className="subtitle">Explore la carte sans traverser les murs</p>
       </header>
 
-      {/* 🔹 Jeu */}
-      <MapGrid map={map} position={position} />
-      <ControlPanel onMove={move} />
+      <main>
+        <MapGrid map={map} position={position} />
+        <ControlPanel onMove={move} />
+      </main>
 
-      {/* 🔹 Instructions */}
       <footer className="game-instructions">
         <p>
           🎮 Déplacements : utilise les <strong>boutons</strong> ou les{" "}
